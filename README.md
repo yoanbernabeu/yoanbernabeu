@@ -6,7 +6,7 @@
 
 📍 Drôme, France
 
-[![Blog](https://img.shields.io/badge/Blog-https:%2F%2Fgo.yoandev.co%2F-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://go.yoandev.co/) [![Twitter](https://img.shields.io/badge/@yOyO38-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yOyO38)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yoandev.co) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yOyO38) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoan-bernabeu/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yoandevco) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoanbernabeu/)
 
 ---
 
@@ -28,8 +28,8 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[GitHubAutoProfil](https://github.com/yoanbernabeu/GitHubAutoProfil)** | Auto-generate a beautiful GitHub profile README from your re... | `Feb 27, 2026` |
 | **[yoanbernabeu](https://github.com/yoanbernabeu/yoanbernabeu)** |  | `Feb 27, 2026` |
+| **[GitHubAutoProfil](https://github.com/yoanbernabeu/GitHubAutoProfil)** | Auto-generate a beautiful GitHub profile README from your re... | `Feb 27, 2026` |
 | **[MiamMCP](https://github.com/yoanbernabeu/MiamMCP)** | Projet de demonstration WebMCP + Symfony 8 : une app de comm... | `Feb 27, 2026` |
 | **[lazyclaude](https://github.com/yoanbernabeu/lazyclaude)** | A tmux workspace combining Claude Code + LazyGit + Terminal ... | `Feb 27, 2026` |
 | **[WebMcpBundle](https://github.com/yoanbernabeu/WebMcpBundle)** | Symfony bundle that exposes controller routes as Web MCP too... | `Feb 26, 2026` |
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/HTML-14.2%25-E34F26?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/JavaScript-12.0%25-F7DF1E?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-9.9%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-9.3%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-9.4%25-00ADD8?style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/Astro-8.9%25-555555?style=flat-square" alt="Astro" />
   <img src="https://img.shields.io/badge/CSS-6.6%25-1572B6?style=flat-square" alt="CSS" />
   <img src="https://img.shields.io/badge/Shell-5.7%25-89E051?style=flat-square" alt="Shell" />
