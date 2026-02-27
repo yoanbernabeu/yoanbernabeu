@@ -1,27 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yoan Bernabeu
-=====================================================================================================================================
+<div align="center">
 
-Lead Développeur Web Freelance, Formateur indépendant & Youtubeur !
--------------------------------------------------------------------
+# Yoan Bernabeu
 
-Je suis avant tout un curieux et un optmiste ! Je crois véritablement que pour tous problèmes il y à une solution, qu’il faut la chercher dans la collaboration, le partage et la coopération. Un projet sans équipe ce n’est pas un vrai projet et j’adore travailler en équipe ! Que ce soit en tant que chef de projets, Lead Dev, formateur ou encore en tant que développeur Backend. Depuis quasiment 20 ans que je travaille dans le milieu de l’informatique, jamais la technologie ne nous aura permis d’être autant connectés, prêt à relever, ensemble, une multitude de défis !
+**Lead Dev | Je transforme les idées en solutions | Youtubeur passionné**
 
-* 🌍  I'm based in Drôme, France
-* 🖥️  See my portfolio at [YoanDev.co](http://yoandev.co)
-* ✉️  You can contact me at [contact@yoandev.co](mailto:contact@yoandev.co)
-* 🚀  I'm currently working on [YouTube - Formations - Freelancing](http://yoandev.co)
-* 🧠  I'm learning DevOps, PHP, Symfony, Architecture ...
-* 🤝  I'm open to collaborating on my YouTube Channel
-* ⚡  Content creator, trainer, and solution provider for the web.
+📍 Drôme, France
 
-### Skills
+[![Blog](https://img.shields.io/badge/Blog-https:%2F%2Fgo.yoandev.co%2F-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://go.yoandev.co/) [![Twitter](https://img.shields.io/badge/@yOyO38-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yOyO38)
 
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"></a>
+![Repos](https://img.shields.io/badge/Repos-115-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2605-yellow?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-429-green?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-504-red?style=flat-square)
+
+</div>
+
+## 🏆 Top Projects
+
+| | Project | Description | ⭐ | 🍴 |
+|---|---------|-------------|----|----|
+| 1 | **[grepai](https://github.com/yoanbernabeu/grepai)** | Semantic Search & Call Graphs for AI Agents (100% Local) | 1338 | 101 |
+| 2 | **[Cronify](https://github.com/yoanbernabeu/Cronify)** | Simply monitor your Cron | 253 | 27 |
+| 3 | **[openbento](https://github.com/yoanbernabeu/openbento)** | The open-source visual builder for stunning link-in-bio page... | 196 | 30 |
+| 4 | **[LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone)** | LinkTreeFreeClone is a LinkTree clone built with Astro and T... | 104 | 36 |
+| 5 | **[Symfony-And-Docker-Makefile-Taskfile](https://github.com/yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile)** | Symfony And Docker Makefile + Taskfile | 99 | 28 |
+
+## 🕐 Recent Activity
+
+| Project | Description | Last Push |
+|---------|-------------|-----------|
+| **[GitHubAutoProfil](https://github.com/yoanbernabeu/GitHubAutoProfil)** | Auto-generate a beautiful GitHub profile README from your re... | `Feb 27, 2026` |
+| **[yoanbernabeu](https://github.com/yoanbernabeu/yoanbernabeu)** |  | `Feb 27, 2026` |
+| **[MiamMCP](https://github.com/yoanbernabeu/MiamMCP)** | Projet de demonstration WebMCP + Symfony 8 : une app de comm... | `Feb 27, 2026` |
+| **[lazyclaude](https://github.com/yoanbernabeu/lazyclaude)** | A tmux workspace combining Claude Code + LazyGit + Terminal ... | `Feb 27, 2026` |
+| **[WebMcpBundle](https://github.com/yoanbernabeu/WebMcpBundle)** | Symfony bundle that exposes controller routes as Web MCP too... | `Feb 26, 2026` |
+
+## 🛠️ Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-20.6%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML-14.2%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-12.0%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-9.9%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-9.3%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Astro-8.9%25-555555?style=flat-square" alt="Astro" />
+  <img src="https://img.shields.io/badge/CSS-6.6%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/Shell-5.7%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/Twig-4.5%25-555555?style=flat-square" alt="Twig" />
+  <img src="https://img.shields.io/badge/Dockerfile-2.9%25-384D54?style=flat-square" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/Makefile-2.4%25-427819?style=flat-square" alt="Makefile" />
+  <img src="https://img.shields.io/badge/Ruby-1.0%25-CC342D?style=flat-square" alt="Ruby" />
 </p>
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/yoanbernabeu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yoan-bernabeu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/yOyO38" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@yoandevco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <sub>Auto-generated by <a href="https://github.com/yoanbernabeu/GitHubAutoProfil">GitHubAutoProfil</a> · Last updated: Feb 27, 2026</sub>
+</p>
