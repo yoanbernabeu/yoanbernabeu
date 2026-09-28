@@ -10,7 +10,7 @@
 
 ---
 
-![Repos](https://img.shields.io/badge/Repos-148-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-3410-yellow?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-512-green?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-537-red?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-149-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-3432-yellow?style=flat-square) ![Forks](https://img.shields.io/badge/Forks-515-green?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-538-red?style=flat-square)
 
 </div>
 
@@ -18,9 +18,9 @@
 
 | | Project | Description | ⭐ | 🍴 |
 |---|---------|-------------|----|----|
-| 1 | **[grepai](https://github.com/yoanbernabeu/grepai)** | Semantic Search & Call Graphs for AI Agents (100% Local) | 1880 | 155 |
+| 1 | **[grepai](https://github.com/yoanbernabeu/grepai)** | Semantic Search & Call Graphs for AI Agents (100% Local) | 1886 | 155 |
 | 2 | **[Cronify](https://github.com/yoanbernabeu/Cronify)** | Simply monitor your Cron | 254 | 27 |
-| 3 | **[openbento](https://github.com/yoanbernabeu/openbento)** | The open-source visual builder for stunning link-in-bio page... | 220 | 28 |
+| 3 | **[openbento](https://github.com/yoanbernabeu/openbento)** | The open-source visual builder for stunning link-in-bio page... | 221 | 28 |
 | 4 | **[LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone)** | LinkTreeFreeClone is a LinkTree clone built with Astro and T... | 101 | 37 |
 | 5 | **[Symfony-And-Docker-Makefile-Taskfile](https://github.com/yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile)** | Symfony And Docker Makefile + Taskfile | 100 | 28 |
 
@@ -28,30 +28,31 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
-| **[SimpleRAW](https://github.com/yoanbernabeu/SimpleRAW)** | Native macOS RAW developer, catalog and S3 backup, built on ... | `Sep 20, 2026` |
-| **[newsletter](https://github.com/yoanbernabeu/newsletter)** |  | `Sep 20, 2026` |
-| **[youtubeboost](https://github.com/yoanbernabeu/youtubeboost)** | Give the videos in your YouTube back catalogue a second life... | `Sep 20, 2026` |
-| **[flux](https://github.com/yoanbernabeu/flux)** | Agrégateur de veille technologique RSS | `Sep 20, 2026` |
-| **[demo-symfony-typesafe](https://github.com/yoanbernabeu/demo-symfony-typesafe)** | Démo : trier des demandes de support avec Jev (TypeSafe) et... | `Sep 19, 2026` |
+| **[lectures](https://github.com/yoanbernabeu/lectures)** |  | `Sep 27, 2026` |
+| **[NanoThumbnail](https://github.com/yoanbernabeu/NanoThumbnail)** | Generate Viral Thumbnails with AI | `Sep 27, 2026` |
+| **[newsletter](https://github.com/yoanbernabeu/newsletter)** |  | `Sep 27, 2026` |
+| **[flux](https://github.com/yoanbernabeu/flux)** | Agrégateur de veille technologique RSS | `Sep 27, 2026` |
+| **[youtubeboost](https://github.com/yoanbernabeu/youtubeboost)** | Give the videos in your YouTube back catalogue a second life... | `Sep 27, 2026` |
 
 ## 🛠️ Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-22.3%25-777BB4?style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/TypeScript-13.0%25-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-12.0%25-F7DF1E?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-11.6%25-E34F26?style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/Astro-9.1%25-555555?style=flat-square" alt="Astro" />
-  <img src="https://img.shields.io/badge/Go-8.9%25-00ADD8?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/CSS-6.3%25-1572B6?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Shell-5.4%25-89E051?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/PHP-22.1%25-777BB4?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-13.2%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-11.9%25-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-11.5%25-E34F26?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/Go-8.8%25-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Astro-8.8%25-555555?style=flat-square" alt="Astro" />
+  <img src="https://img.shields.io/badge/CSS-6.2%25-1572B6?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/Shell-5.3%25-89E051?style=flat-square" alt="Shell" />
   <img src="https://img.shields.io/badge/Twig-3.8%25-555555?style=flat-square" alt="Twig" />
   <img src="https://img.shields.io/badge/Dockerfile-2.3%25-384D54?style=flat-square" alt="Dockerfile" />
   <img src="https://img.shields.io/badge/Makefile-2.0%25-427819?style=flat-square" alt="Makefile" />
+  <img src="https://img.shields.io/badge/Swift-1.6%25-F05138?style=flat-square" alt="Swift" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Auto-generated by <a href="https://github.com/yoanbernabeu/GitHubAutoProfil">GitHubAutoProfil</a> · Last updated: Sep 21, 2026</sub>
+  <sub>Auto-generated by <a href="https://github.com/yoanbernabeu/GitHubAutoProfil">GitHubAutoProfil</a> · Last updated: Sep 28, 2026</sub>
 </p>
