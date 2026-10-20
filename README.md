@@ -4,8 +4,6 @@
 
 **Tech Lead Symfony & DevOps. J'écris, je filme et je forme sur trois sujets : architecture, DevOps, et IA appliquée au dev. Articles, vidéos, formations, et cons**
 
-📍 Drôme, France
-
 [![Blog](https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yoandev.co) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yOyO38) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoan-bernabeu/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yoandevco) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoanbernabeu/)
 
 ---
